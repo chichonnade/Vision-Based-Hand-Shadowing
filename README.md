@@ -10,6 +10,8 @@ robot teleoperation using computer vision and hand tracking for robot control.
   antoine_jamme@berkeley.edu
 - Trevor Rigoberto Martinez  
   tre_mart@berkeley.edu
+- Yu-Chun Tuan
+  eugenetuan@berkeley.edu
 
 ![VBHS Demo](assets/vbhs_loop_gif.gif)
 
